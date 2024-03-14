@@ -1,5 +1,5 @@
 public class Exercicio09 {
-    public static void exercutar() {
+    public static void executar() {
         double A = Prompt.lerDecimal("Digite um número: ");
         double B = Prompt.lerDecimal("Digite outro número: ");
 

@@ -1,5 +1,5 @@
 public class Exercicio07 {
-    public static void exercutar() {
+    public static void executar() {
         double num = Prompt.lerDecimal("Digite um número: ");
 
         if (num >= 100 && num <= 200) {

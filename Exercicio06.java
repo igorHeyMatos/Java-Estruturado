@@ -1,5 +1,5 @@
 public class Exercicio06 {
-    public static void exercutar() {
+    public static void executar() {
 
         double C = Prompt.lerDecimal("Digite a temperatura em Celsius: ");
         double F = (9 * C + 160) / 5;

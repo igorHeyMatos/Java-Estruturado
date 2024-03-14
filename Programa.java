@@ -5,12 +5,13 @@ public class Programa {
         // Exercicio01.executar();
         // Exercicio02.executar();
         // Exercicio03.executar();
-        // Exercicio04.exercutar();
+        // Exercicio04.executar();
         // Exercicio05.executar();
-        // Exercicio06.exercutar();
-        // Exercicio07.exercutar();
-        // Exercicio08.exercutar();
-        // Exercicio09.exercutar();
-        Exercicio10.exercutar();
+        // Exercicio06.executar();
+        // Exercicio07.executar();
+        // Exercicio08.executar();
+        // Exercicio09.executar();
+        //Exercicio10.executar();
+        Exercicio11.executar();
     }
 }
